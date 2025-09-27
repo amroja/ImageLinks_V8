@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ImageLinks.Application\ImageLinks.Application.csproj" />
+    <ProjectReference Include="..\ImageLinks.Infrastructure\ImageLinks.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
