@@ -1,4 +1,4 @@
-﻿namespace ImageLinks.Application.DTOs.Users
+namespace ImageLinks.Application.DTOs.Users
 {
-    public record UserDto(string UserId);
+    public record UserDto(int Id, string UserName, string Password);
 }
